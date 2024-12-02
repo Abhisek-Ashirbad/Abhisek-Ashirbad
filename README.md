@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence/ Machine Learning (AI/ML)
 - 🌱 I’m currently learning Deep Learning and Cryptography
 - 💞️ I’m looking to collaborate on Neural Nets, Cryptography, AI Algorithms and other related topics
-- 📫 You can reach me at: https://www.linkedin.com/in/abhisek-ashirbad-sethy-491a5559/
+- 📫 You can reach me at: https://www.linkedin.com/in/abhisek-ashirbad-sethy
 
 <!---
 Abhisek-Ashirbad/Abhisek-Ashirbad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
